@@ -7,6 +7,7 @@
 
 ### API
 https://www.envisager.kr/api/get-nft-museum
+
 https://www.envisager.kr/api/image/caption "{“link”: imageUrl}"
 
 
